@@ -1,2 +1,2 @@
-additional statemnet   
+test to confirm git diff
 "This is FileA" 
